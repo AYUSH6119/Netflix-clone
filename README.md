@@ -14,14 +14,14 @@ A Netflix-inspired web app built with React, Firebase, and TMDB API. This projec
 ☁️ Firebase Hosting (optional deployment)
 
 
+
 🛠️ Tech Stack
 
+-React (frontend UI)
 
-React (frontend UI)
+-Firebase (authentication + hosting)
 
-Firebase (authentication + hosting)
+-TMDB API (movie database)
 
-TMDB API (movie database)
-
-CSS/Tailwind (styling)
+-CSS/Tailwind (styling)
 
